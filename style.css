@@ -1,4 +1,8 @@
 body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -61,4 +65,14 @@ body {
 .tongzhi #sub {
   margin-top: 15px;
   font-weight: bold;
+}
+.tongzhi .input1{
+  width: 100%
+}
+ul{
+  overflow: hidden;
+}
+li{
+  list-style: none;
+
 }
