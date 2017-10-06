@@ -21,4 +21,9 @@ npm install
 net start mongodb
 ```
 
-5. 在根目录直接打开`index.html`即可。
+5. 启动服务端，在根目录输入：
+```npm
+npm start
+```
+
+6. 在根目录直接打开`index.html`即可。
