@@ -26,4 +26,4 @@ net start mongodb
 npm start
 ```
 
-6. 在根目录直接打开`index.html`即可。
+6. 在根目录直接打开`index.html`启动。
